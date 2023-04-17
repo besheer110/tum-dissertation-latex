@@ -174,7 +174,7 @@
 
     % Logos
     % FAK logo
-    \input{inc/fak_placement.tex}
+    % \input{inc/fak_placement.tex}
 
     % FAK text
     %                         See TUM CD Handbook page 16
